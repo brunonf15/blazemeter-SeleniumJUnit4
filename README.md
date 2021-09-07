@@ -16,7 +16,7 @@ OO language (e.g. C#/Java/Python).
 
 Use element locator methods as necessary. Implement as many assertions as you deem applicable
 
-##Dependencies:
+## Dependencies:
 
 The dependencies from this project are:
 
@@ -28,13 +28,13 @@ Chromedriver
 
 Google Chrome
 
-###To run the tests execute:
+### To run the tests execute:
 
 ```
 mvn test
 ```
 
-###To generate the report execute:
+### To generate the report execute:
 
 ```
 mvn surefire-report:report
