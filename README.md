@@ -39,6 +39,7 @@ mvn test
 ```
 mvn surefire-report:report
 ```
+To check the report, open surefire-report.html (the target\site\surefire-report.html)
 
 This project is a fork for How to Run a Selenium Test with JUnit:
 
